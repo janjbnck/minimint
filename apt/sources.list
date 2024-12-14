@@ -1,0 +1,7 @@
+#deb cdrom:[Linux Mint 22 _Wilma_ - Release amd64 20240721]/ noble contrib main
+
+# This system was installed using small removable media
+# (e.g. netinst, live or single CD). The matching "deb cdrom"
+# entries were disabled at the end of the installation process.
+# For information about how to configure apt package sources,
+# see the sources.list(5) manual.
